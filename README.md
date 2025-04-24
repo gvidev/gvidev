@@ -5,7 +5,6 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/georgi-videv/)
 - or write me a message at my email - videvgeorge@gmail.com
 - Check out my [HackerRank](https://www.hackerrank.com/profile/videvgeorge) profile
-- HAVE A GREAT DAY!
 
 <!---
 gvidev/gvidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
